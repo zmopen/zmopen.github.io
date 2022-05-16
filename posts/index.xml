@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>zmopen&#39;s blog</title>
-    <link>https://zmopen.github.io/</link>
-    <description>Recent content on zmopen&#39;s blog</description>
+    <title>Posts on zmopen&#39;s blog</title>
+    <link>https://zmopen.github.io/posts/</link>
+    <description>Recent content in Posts on zmopen&#39;s blog</description>
     <image>
       <url>https://zmopen.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://zmopen.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Apr 2022 13:47:55 -0700</lastBuildDate><atom:link href="https://zmopen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Apr 2022 13:47:55 -0700</lastBuildDate><atom:link href="https://zmopen.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Greek Alphabet</title>
       <link>https://zmopen.github.io/posts/2022-04-28-greek-alphabet/</link>
@@ -38,8 +38,6 @@
       <description>Framework  核心思想：对同一个样本做不同的数据增强构造样本，通过对比Loss 最大化同源的数据增强样本之间的 Agreement。可类比人脸识别。 四个过程：Data Augmentation -&amp;gt; Base Encoder -&amp;gt; Projection Head -&amp;gt; Contrastive Loss  Base Encoder：比如ResNet； Projection Head：简单的单隐层MLP； Contrastive Loss    ![framework of simclr]({{ &amp;lsquo;/assets/images/framework_of_clr.png&amp;rsquo; | relative_url }}) {: style=&amp;ldquo;width: 400px; max-width: 100%;&amp;rdquo;}
 Main Contributions  数据增强：组合很重要，相比有监督学习，数据增强对无监督对比学习增益更大； 任务解耦：在表示向量和对比Loss 之间加入可学习非线性变换很重要； 对比Loss：归一化Embedding 和温度参数有收益； 更大的Batch 和更长的训练有收益，更深或更宽的模型有收益  Data Augment  数据增强操作分为两大类：空间/几何变换、外观变换 最优的组合：Crop + Color distort  Crop + Resize：从图片的不同部分提取特征； Color distort：避免模型过拟合到颜色直方图上   数据增强对非监督学习更有用  Nonlieanr Projection Layer  非线性 = 线性 + 3% = None + 10% 非线性层之前 = 非线性之后 + 10% 非线性映射层之后更任务相关，泛化差； 经过非线性映射层之后，信息量损失很大，通过转换矩阵的秩得出这个结论； 大多数CV预训练模型都是这样处理的；  Contrastive Loss  NT-Xent (the normalized temperature-scaled cross entropy loss 结果 L2 和 温度的重要性、Contrastive acc 与 Top 1 acc 并不总是一致  Batch Size 与 Epochs 影响 Results  与无监督 与半监督、有监督 迁移学习：在ImageNet 上预训练，在其它任务上迁移  Reference  </description>
     </item>
-    
-    
     
   </channel>
 </rss>

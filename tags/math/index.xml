@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Math on zmopen&#39;s blog</title>
+    <link>https://zmopen.github.io/tags/math/</link>
+    <description>Recent content in Math on zmopen&#39;s blog</description>
+    <image>
+      <url>https://zmopen.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://zmopen.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2022 19:10:00 -0700</lastBuildDate><atom:link href="https://zmopen.github.io/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Math in english and Latex</title>
+      <link>https://zmopen.github.io/posts/2022-04-27-math-in-english--latex/</link>
+      <pubDate>Wed, 27 Apr 2022 19:10:00 -0700</pubDate>
+      
+      <guid>https://zmopen.github.io/posts/2022-04-27-math-in-english--latex/</guid>
+      <description>LaTex code and pronunciation of mathmatical operators.</description>
+    </item>
+    
+  </channel>
+</rss>

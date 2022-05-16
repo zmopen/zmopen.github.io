@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zmopen.github.io/sitemap.xml

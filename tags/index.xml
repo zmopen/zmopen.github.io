@@ -1,1 +1,60 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tags on My New Hugo Site</title><link>https://zmopen.github.io/tags/</link><description>Recent content in Tags on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://zmopen.github.io/tags/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on zmopen&#39;s blog</title>
+    <link>https://zmopen.github.io/tags/</link>
+    <description>Recent content in Tags on zmopen&#39;s blog</description>
+    <image>
+      <url>https://zmopen.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://zmopen.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Apr 2022 13:47:55 -0700</lastBuildDate><atom:link href="https://zmopen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LaTex</title>
+      <link>https://zmopen.github.io/tags/latex/</link>
+      <pubDate>Thu, 28 Apr 2022 13:47:55 -0700</pubDate>
+      
+      <guid>https://zmopen.github.io/tags/latex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pronunciation</title>
+      <link>https://zmopen.github.io/tags/pronunciation/</link>
+      <pubDate>Thu, 28 Apr 2022 13:47:55 -0700</pubDate>
+      
+      <guid>https://zmopen.github.io/tags/pronunciation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Math</title>
+      <link>https://zmopen.github.io/tags/math/</link>
+      <pubDate>Wed, 27 Apr 2022 19:10:00 -0700</pubDate>
+      
+      <guid>https://zmopen.github.io/tags/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrastive Learning</title>
+      <link>https://zmopen.github.io/tags/contrastive-learning/</link>
+      <pubDate>Sun, 28 Nov 2021 20:44:00 -0700</pubDate>
+      
+      <guid>https://zmopen.github.io/tags/contrastive-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://zmopen.github.io/tags/machine-learning/</link>
+      <pubDate>Sun, 28 Nov 2021 20:44:00 -0700</pubDate>
+      
+      <guid>https://zmopen.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
