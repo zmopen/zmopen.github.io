@@ -59,7 +59,7 @@ params:
 
   # profile-mode
   profileMode:
-      enabled: true # needs to be explicitly set
+      enabled: false # needs to be explicitly set
       title: "zmopen's blog" # optional default will be site title
       subtitle: "Work hard, be kind, and amazing things will happen.  -- Conan O'Brien"
       imageUrl: "<image link>" # optional
