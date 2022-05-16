@@ -2,8 +2,8 @@
 author: "me"
 title: "Greek Alphabet"
 date: "2022-04-28T13:47:55-07:00"
-description: "LaTex code and pronunciation of Greek letters."
-tags: ["LaTex", "pronunciation"]
+description: "LaTeX code and pronunciation of Greek letters."
+tags: ["LaTeX", "pronunciation"]
 categories: ["Handbook"]
 # series: [""]
 aliases: ["migrate-from-jekyl"]
@@ -12,10 +12,10 @@ TocOpen: false
 ---
 
 
-## LaTex and pronunciations
+## LaTeX and pronunciations
 - 24 letters in total
 
-| Id | Greek | English | Pronunciation | LaTex | Chinese |
+| Id | Greek | English | Pronunciation | LaTeX | Chinese |
 |----|-------|---------|---------------|-------|---------|
 | 1  |$A \alpha$|alpha|/ˈælfə/|`A \alpha`|阿尔法|
 | 2  |$B \beta$|beta|/ˈbiːtə/ /ˈbeɪtə/|`B \beta`|贝塔|
