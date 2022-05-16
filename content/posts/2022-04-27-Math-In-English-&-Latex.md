@@ -1,9 +1,9 @@
 ---
 author: "me"
-title: "Math in english and Latex"
+title: "Math in english and LaTeX"
 date: "2022-04-27T19:10:00-07:00"
-description: "LaTex code and pronunciation of mathmatical operators."
-tags: ["LaTex", "Math"]
+description: "LaTeX code and pronunciation of mathmatical operators."
+tags: ["LaTeX", "Math"]
 categories: ["Handbook"]
 # series: [""]
 aliases: ["migrate-from-jekyl"]
@@ -14,7 +14,7 @@ TocOpen: false
 
 ## Basic Math Operations
 
-| Id | Math | English | Example | Latex | Chinese |
+| Id | Math | English | Example | LaTeX | Chinese |
 |----|------|---------|---------|---------|---------|
 | 1  |$x + y$ |Addition|x plus y|x + y|加|
 | 2  |$x - y$ |Substraction|x minus y|x - y|减|
@@ -35,9 +35,9 @@ TocOpen: false
 
 ## Bit Operations in Computer Science
 
-| Id | Math | English | Example | Latex | Chinese |
+| Id | Math | English | Example | LaTeX | Chinese |
 |----|------|---------|---------|---------|---------|
-| 1  |$x \& y$ |And|x and y|x \& y|与|
+| 1  |$x \And y$ |And|x and y|x \And y|与|
 | 2  |$x \| y$ |Or|x or y|x \| y|或|
 | 3  |$!x$ |Not|if not x|!x|非|
 | 4  |$x xor y$ |XOR|exclusive OR|x \times y|异或|
@@ -45,7 +45,7 @@ TocOpen: false
 
 ## Comparison Symbols
 
-| Id | Math | English | Example | Latex | Chinese |
+| Id | Math | English | Example | LaTeX | Chinese |
 |----|------|---------|---------|---------|---------|
 | 1  |$x = y$ |Equation|x equals/is equal to y|x=y|等于|
 | 2  |$x > y$ |Comparison|x is greater than y|x>y|大于|
@@ -59,7 +59,7 @@ TocOpen: false
 
 
 ## Set Notations
-| Id | Math | English | Example | Latex | Chinese |
+| Id | Math | English | Example | LaTeX | Chinese |
 |----|------|---------|---------|---------|---------|
 | 1  |$x \in X$ |Member|x is member of X|x \in X|属于|
 | 2  |$x \notin X$ |Member|x is not member of X|x \notin X|不属于|
@@ -74,7 +74,7 @@ TocOpen: false
 
 
 ## O Operations
-| Id | Math | English | Example | Latex | Chinese |
+| Id | Math | English | Example | LaTeX | Chinese |
 |----|------|---------|---------|---------|---------|
 | 1  |$x \land y$ |And||x \land y|与|
 | 2  |$x \lor y$ |Or||x \lor y|或|
@@ -85,7 +85,7 @@ TocOpen: false
 | 7  |$x \oslash y$ |||x \oslash y||
 
 ## Logic Notations
-| Id | Math | English | Example | Latex | Chinese |
+| Id | Math | English | Example | LaTeX | Chinese |
 |----|------|---------|---------|---------|---------|
 | 1  |$\exists$ |Exsits|these exists at least one|\exists|存在|
 | 2  |$\exists!$ |Exsits one|these exists one and only one|\exists!|有且只有一个|
@@ -94,7 +94,7 @@ TocOpen: false
 
 
 ## Integral and Derivative
-| Id | Math | English | Example | Latex | Chinese |
+| Id | Math | English | Example | LaTeX | Chinese |
 |----|------|---------|---------|---------|---------|
 | 1  |$\partial$ |Derivative|partial derivative|\partial|偏微分|
 | 2  |$\nabla$ |||\nabla||
@@ -116,9 +116,10 @@ TocOpen: false
 
 
 ## Others
-| Id | Math | English | Example | Latex | Chinese |
+| Id | Math | English | Example | LaTeX | Chinese |
 |----|------|---------|---------|---------|---------|
 | 1  |$\infty$ |Infinity|infinity|\infty|无穷大|
 
 ## Reference
 - [List of LaTeX mathematical symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
+- [KaTeX supported functions](https://katex.org/docs/supported.html)
