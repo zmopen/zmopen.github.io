@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>LaTex on zmopen&#39;s blog</title>
+    <title>LaTeX on zmopen&#39;s blog</title>
     <link>https://zmopen.github.io/tags/latex/</link>
-    <description>Recent content in LaTex on zmopen&#39;s blog</description>
+    <description>Recent content in LaTeX on zmopen&#39;s blog</description>
     <image>
       <url>https://zmopen.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://zmopen.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
@@ -21,12 +21,12 @@
     </item>
     
     <item>
-      <title>Math in english and Latex</title>
+      <title>Math in english and LaTeX</title>
       <link>https://zmopen.github.io/posts/2022-04-27-math-in-english--latex/</link>
       <pubDate>Wed, 27 Apr 2022 19:10:00 -0700</pubDate>
       
       <guid>https://zmopen.github.io/posts/2022-04-27-math-in-english--latex/</guid>
-      <description>LaTex code and pronunciation of mathmatical operators.</description>
+      <description>LaTeX code and pronunciation of mathmatical operators.</description>
     </item>
     
   </channel>
